@@ -1,0 +1,31 @@
+.idea/
+
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+LinkedList        # Replace with the name of your executable (e.g., your project's output binary)
+
+*.cmake
+*.ninja
+*.make
+
+*~                # Backup files created by editors (e.g., vim, emacs)
+*.swp             # Swap files created by Vim
+*.bak             # Backup files
+*.tmp             # Temporary files
+
+.DS_Store
+
+Thumbs.db
+Desktop.ini
+
+*.log
